@@ -248,7 +248,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## Contact
 
 **Author**: Rehaan Khatri
-**Email**: regaankh7@gmail.com
+**Email**: rehaankh7@gmail.com
 **GitHub**: [@rk-python5](https://github.com/rk-python5)
 
 ---
