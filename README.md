@@ -247,9 +247,9 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## Contact
 
-**Author**: Aryan Khatu
-**Email**: [your-email@example.com]
-**GitHub**: [@your-username](https://github.com/your-username)
+**Author**: Rehaan Khatri
+**Email**: regaankh7@gmail.com
+**GitHub**: [@rk-python5](https://github.com/rk-python5)
 
 ---
 
